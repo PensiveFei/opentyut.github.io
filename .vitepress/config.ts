@@ -101,7 +101,7 @@ export default defineConfig({
         {
           text: '人工智能',
           items: [
-            { text: '施工中', link: '/guide/ai' },
+            { text: '人工智能', link: '/guide/ai' },
           ]
         }
       ],
